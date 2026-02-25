@@ -1,4 +1,2 @@
 # handrecognitiontraining
 
-Vickson gay
-
